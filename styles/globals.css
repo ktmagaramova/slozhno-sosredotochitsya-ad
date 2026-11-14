@@ -8,7 +8,6 @@
 
 body {
   min-inline-size: 375px;
-  max-inline-size: 1440px;
   margin: 0 auto;
 }
 
@@ -39,4 +38,14 @@ a {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+}
+
+button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
 }
